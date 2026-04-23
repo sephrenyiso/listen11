@@ -27,7 +27,7 @@ To **`solve`** this **`problem`**, **`scientists`** decided to bring wolves back
 **Nam**: I think it’s bullying because it’s very common today, and ...
 
 
-✅ Answers (True / False)
+### ✅ Answers (True / False)
 
 1. Their club decided to start an awareness campaign to draw attention to a pressing social issue.
 → True
