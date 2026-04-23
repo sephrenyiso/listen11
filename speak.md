@@ -7,57 +7,89 @@ This was a big **`mistake`** because wolves were the **`natural predators`** tha
 To **`solve`** this **`problem`**, **`scientists`** decided to bring wolves back in 1995. This plan was a great **`success`**.
 
 ## II/ LISTEN AND DECIDE IF EACH SENTENCE IS TRUE OR FALSE:
-Mark: Hi, everyone. Last time our club met, we decided to start an awareness campaign to draw attention to a pressing social issue. So have you thought about any issues that we could focus on?
+**🗣️ Conversation**
+**Mark**: Hi, everyone. Last time our club met, we decided to start an awareness campaign to draw attention to a pressing social issue. So have you thought about any issues that we could focus on?
 
-Mai: Yes, I think we should promote issues that affect a lot of people in our city, such as crime and overpopulation.
+**Mai**: Yes, I think we should promote issues that affect a lot of people in our city, such as crime and overpopulation.
 
-Nam: I like your ideas, Mai, but I think we should plan our campaign around social issues that directly affect teenagers like us.
+**Nam**: I like your ideas, Mai, but I think we should plan our campaign around social issues that directly affect teenagers like us.
 
-Mark: Can you give us some examples?
+**Mark**: Can you give us some examples?
 
-Nam: Well, bullying, peer pressure, and body shaming, for instance, are major problems among teenagers today although many people don’t feel comfortable talking about them.
+**Nam**: Well, bullying, peer pressure, and body shaming, for instance, are major problems among teenagers today although many people don’t feel comfortable talking about them.
 
-Mai: I agree with you. Hmm... so Mark, what do you think? Should we focus our campaign on a general social issue or one affecting mainly teens?
+**Mai**: I agree with you. Hmm... so Mark, what do you think? Should we focus our campaign on a general social issue or one affecting mainly teens?
 
-Mark: Hmm. I think this time we should focus on a problem teens struggle with every day because this won’t be a big campaign. However, we'll try to use your ideas for another project, Mai.
+**Mark**: Hmm. I think this time we should focus on a problem teens struggle with every day because this won’t be a big campaign. However, we'll try to use your ideas for another project, Mai.
 
-Mai: Sounds good! Now let’s decide on a social issue. Is the top problem facing teens today peer pressure, body shaming, or bullying?
+**Mai**: Sounds good! Now let’s decide on a social issue. Is the top problem facing teens today peer pressure, body shaming, or bullying?
 
-Nam: I think it’s bullying because it’s very common today, and ...
+**Nam**: I think it’s bullying because it’s very common today, and ...
 
 
-1/ Their club decided to start an awareness campaign to draw attention to a pressing social issue. **True**
-> → Vì Mark nói họ đã quyết định bắt đầu một chiến dịch nâng cao nhận thức về một vấn đề xã hội cấp bách.
+✅ Answers (True / False)
 
-2/ Nam thinks they should promote the issues that have an effect on many people in the city. FALSE **False**
-> → Nam không nghĩ nên tập trung vào vấn đề ảnh hưởng đến nhiều người trong thành phố, mà là vấn đề ảnh hưởng trực tiếp đến thanh thiếu niên.
+1. Their club decided to start an awareness campaign to draw attention to a pressing social issue.
+→ True
 
-3/ Mai thinks they should promote the issues that have an effect on many people in the city, such as crime and overpopulation. **True**
-> → Mai nói rõ nên tập trung vào các vấn đề ảnh hưởng đến nhiều người như tội phạm và quá đông dân số.
+> Vì Mark nói họ đã quyết định bắt đầu một chiến dịch nâng cao nhận thức về một vấn đề xã hội cấp bách.
 
-4/ Nam thinks they should plan our campaign around social issues that directly affect teenagers. **True**
-> → Nam muốn chiến dịch tập trung vào các vấn đề xã hội ảnh hưởng trực tiếp đến thanh thiếu niên.
+2. Nam thinks they should promote the issues that have an effect on many people in the city.
+→ False
 
-5/ Mai suggests some problems that have a direct impact on teens. **False**
-> → Mai không đưa ra ví dụ về vấn đề ảnh hưởng trực tiếp đến teen; đó là Nam đưa ra (bullying, peer pressure, body shaming).
+> Nam không nghĩ nên tập trung vào vấn đề ảnh hưởng đến nhiều người trong thành phố, mà là vấn đề ảnh hưởng trực tiếp đến thanh thiếu niên.
 
-6/ Mark thinks this time they should focus on an issue that teens face in their everyday life / a problem teens struggle with every day.
-> => **TRUE** (Vì Mark nói: "I think this time we should focus on a problem teens struggle with every day.")
+3. Mai thinks they should promote the issues that have an effect on many people in the city, such as crime and overpopulation.
+→ True
 
-7/ They try to use Nam’s ideas for another projects.
-> => **FALSE** (Vì Mark bảo sẽ để dành ý tưởng của Mai: "use your ideas for another project, Mai.")
+> Mai nói rõ nên tập trung vào các vấn đề ảnh hưởng đến nhiều người như tội phạm và quá đông dân số.
 
-8/ They try to use Mai’s ideas for another projects.
-> => **TRUE** (Đúng theo lời đề nghị của Mark với Mai ở cuối đoạn hội thoại.)
+4. Nam thinks they should plan our campaign around social issues that directly affect teenagers.
+→ True
 
-9/ Nam thinks the top problem teen facing today is bullying.
-> => **TRUE** (Vì Nam nói: "I think it’s bullying because it’s very common today.")
+> Nam muốn chiến dịch tập trung vào các vấn đề xã hội ảnh hưởng trực tiếp đến thanh thiếu niên.
 
-10/ Bullying, peer pressure, and body shaming, are major problems among teenagers.
-> => **TRUE** (Nam liệt kê đây là những vấn đề lớn và các bạn khác đều đồng tình.)
+5. Mai suggests some problems that have a direct impact on teens.
+→ False
 
-11/ Many people don’t feel comfortable talking about major problems among teenagers.
-> => **TRUE** (Nam có đề cập: "although many people don’t feel comfortable talking about them.")
+> Mai không đưa ra ví dụ về vấn đề ảnh hưởng trực tiếp đến teen; đó là Nam đưa ra (bullying, peer pressure, body shaming).
 
+<<<<<<< HEAD
 12/ Many people feel comfortable talking about major problems among teenagers.
 > => **FALSE** (Ngược lại với thông tin Nam đã đưa ra ở câu trên.)
+=======
+6. Mark thinks this time they should focus on an issue that teens face in their everyday life / a problem teens struggle with every day.
+→ True
+
+> Mark nói: "I think this time we should focus on a problem teens struggle with every day."
+
+7. They try to use Nam’s ideas for another projects.
+→ False
+
+> Mark bảo sẽ để dành ý tưởng của Mai: "use your ideas for another project, Mai."
+
+8. They try to use Mai’s ideas for another projects.
+→ True
+
+> Đúng theo lời đề nghị của Mark với Mai ở cuối đoạn hội thoại.
+
+9. Nam thinks the top problem teen facing today is bullying.
+→ True
+
+> Nam nói: "I think it’s bullying because it’s very common today."
+
+10. Bullying, peer pressure, and body shaming are major problems among teenagers.
+→ True
+
+> Nam liệt kê đây là những vấn đề lớn và các bạn khác đều đồng tình.
+
+11. Many people don’t feel comfortable talking about major problems among teenagers.
+→ True
+
+> Nam có đề cập: "although many people don’t feel comfortable talking about them."
+
+12. Many people feel comfortable talking about major problems among teenagers.
+→ False
+
+> Ngược lại với thông tin Nam đã đưa ra ở câu trên.
+>>>>>>> 11e7c77 (update ui)
