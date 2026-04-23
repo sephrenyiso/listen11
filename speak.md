@@ -4,7 +4,7 @@ An **`ecosystem`** is a group of living and **`non-living`** things that live to
 
 This was a big **`mistake`** because wolves were the **`natural predators`** that kept the **`deer population`** at a **`safe level`**. Without wolves, the deer **`increased`** too fast and ate almost all the **`plants`** in the **`forest`**. This destroyed the homes of many other animals and made the whole park **`unhealthy`**.
 
-To **`solve`** this **`problem`**, **`scientists`** decided to bring wolves back in 1995. This plan was a great **success**.
+To **`solve`** this **`problem`**, **`scientists`** decided to bring wolves back in 1995. This plan was a great **`success`**.
 
 ## II/ LISTEN AND DECIDE IF EACH SENTENCE IS TRUE OR FALSE:
 Mark: Hi, everyone. Last time our club met, we decided to start an awareness campaign to draw attention to a pressing social issue. So have you thought about any issues that we could focus on?
