@@ -55,41 +55,40 @@ To **`solve`** this **`problem`**, **`scientists`** decided to bring wolves back
 > Mai không đưa ra ví dụ về vấn đề ảnh hưởng trực tiếp đến teen; đó là Nam đưa ra (bullying, peer pressure, body shaming).
 
 <<<<<<< HEAD
-12/ Many people feel comfortable talking about major problems among teenagers.
+6. Many people feel comfortable talking about major problems among teenagers.
 > => **FALSE** (Ngược lại với thông tin Nam đã đưa ra ở câu trên.)
 =======
-6. Mark thinks this time they should focus on an issue that teens face in their everyday life / a problem teens struggle with every day.
+7. Mark thinks this time they should focus on an issue that teens face in their everyday life / a problem teens struggle with every day.
 → True
 
 > Mark nói: "I think this time we should focus on a problem teens struggle with every day."
 
-7. They try to use Nam’s ideas for another projects.
+8. They try to use Nam’s ideas for another projects.
 → False
 
 > Mark bảo sẽ để dành ý tưởng của Mai: "use your ideas for another project, Mai."
 
-8. They try to use Mai’s ideas for another projects.
+9. They try to use Mai’s ideas for another projects.
 → True
 
 > Đúng theo lời đề nghị của Mark với Mai ở cuối đoạn hội thoại.
 
-9. Nam thinks the top problem teen facing today is bullying.
+10. Nam thinks the top problem teen facing today is bullying.
 → True
 
 > Nam nói: "I think it’s bullying because it’s very common today."
 
-10. Bullying, peer pressure, and body shaming are major problems among teenagers.
+11. Bullying, peer pressure, and body shaming are major problems among teenagers.
 → True
 
 > Nam liệt kê đây là những vấn đề lớn và các bạn khác đều đồng tình.
 
-11. Many people don’t feel comfortable talking about major problems among teenagers.
+12. Many people don’t feel comfortable talking about major problems among teenagers.
 → True
 
 > Nam có đề cập: "although many people don’t feel comfortable talking about them."
 
-12. Many people feel comfortable talking about major problems among teenagers.
+13. Many people feel comfortable talking about major problems among teenagers.
 → False
 
 > Ngược lại với thông tin Nam đã đưa ra ở câu trên.
->>>>>>> 11e7c77 (update ui)
