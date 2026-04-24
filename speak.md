@@ -54,10 +54,10 @@ To **`solve`** this **`problem`**, **`scientists`** decided to bring wolves back
 
 > Mai không đưa ra ví dụ về vấn đề ảnh hưởng trực tiếp đến teen; đó là Nam đưa ra (bullying, peer pressure, body shaming).
 
-<<<<<<< HEAD
 6. Many people feel comfortable talking about major problems among teenagers.
+
 > => **FALSE** (Ngược lại với thông tin Nam đã đưa ra ở câu trên.)
-=======
+
 7. Mark thinks this time they should focus on an issue that teens face in their everyday life / a problem teens struggle with every day.
 → True
 
